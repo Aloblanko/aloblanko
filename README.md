@@ -15,10 +15,10 @@
   <img width="400" src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" alt="git">
 </p>
 
-<p align="center">
+<p align="left">
   <img width="400" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="github">
 </p>
 
-<p align="center">
-  <img width="400" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" alt="github">
+<p align="right">
+  <img width="400" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" alt="node">
 </p>
