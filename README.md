@@ -15,8 +15,8 @@
   <img width="400" src="./img/Git-Logo-White.png" alt="git">
 </p>
 
-
-
 <p align="center">
   <img width="400" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" alt="node">
 </p>
+
+
